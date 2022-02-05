@@ -1,0 +1,22 @@
+type: code
+custom_name: Latin equivalents
+files:
+- name: main.py
+  visible: true
+  text: |-
+    name = input()
+
+    def normalize(name):
+
+        # put your code here
+
+        return new_name
+
+    print(normalize(name))
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/13808#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 23 Aug 2021 19:12:06 UTC
+record: -1
